@@ -1,0 +1,35 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bootstrap-overrides .navbar :hover {
+    color: rgb(237, 86, 75);
+}
+
+#bootstrap-overrides .active {
+    color: rgb(237, 86, 75);
+}
+
+#btn-ovr {
+    text-transform: uppercase;
+    background: transparent;
+    border: 1px solid #ffffff;
+    color: #ffffff
+}
+
+#bootstrap-overrides .carousel-control-prev-icon {
+    background-color: rgba(237, 86, 75, 100);
+    padding: 50px 20px;
+  }
+  
+  #bootstrap-overrides .carousel-control-next-icon {
+    background-color: rgba(237, 86, 75, 100);
+    padding: 50px 20px;
+  }
+
+  #info {
+      background-color: rgb(237, 86, 75);
+      color: #ffffff;
+      text-align: center;
+  }
+
